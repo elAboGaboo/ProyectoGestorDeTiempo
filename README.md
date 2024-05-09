@@ -4,10 +4,10 @@ OBJETIVOS:
 -
 INTEGRANTES:
 
--LANDA SABUCO, Gabriel David 
+-LANDA SABUCO, Gabriel David (Desarrolador)
 
--MEDINA VERTIZ, Yerson Yassir
+-MEDINA VERTIZ, Yerson Yassir (Desarrolador)
 
--RIVERA VELAZCO, Mauricio Gabriel
+-RIVERA VELAZCO, Mauricio Gabriel (Desarrolador)
 
--
+- (Desarrolador)
