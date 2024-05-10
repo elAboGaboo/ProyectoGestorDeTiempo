@@ -1,4 +1,4 @@
-ProyectoGestorDeTiempo
+#ProyectoGestorDeTiempo
 
 | INTEGRANTES           | Rol           |
 |-----------------------|---------------|
