@@ -7,7 +7,7 @@
 | RIVERA VELAZCO, Mauricio Gabriel | Desarrollador |
 | ZACARIAS LOPEZ, Lenning Andree | Desarrollador |
 
-# OBJETIVOS:
+## OBJETIVOS:
 
 
 **1. Desarrollar una Aplicación Funcional:** El objetivo principal es construir una aplicación de gestión de tiempo multipropósito completamente funcional que cumpla con los requisitos establecidos, incluyendo temporizador estándar, alarma y temporizador Pomodoro.
