@@ -8,7 +8,7 @@ OBJETIVOS:
 6. Garantizar la Fiabilidad y Estabilidad: Desarrollar una aplicación robusta y confiable que funcione de manera consistente y sin problemas, minimizando errores y asegurando un rendimiento estable durante su uso.
 7. Fomentar la Colaboración y la Comunidad: Crear un proyecto de código abierto que fomente la colaboración entre desarrolladores y la participación de la comunidad, permitiendo la contribución de mejoras y la retroalimentación de los usuarios para continuar mejorando la aplicación con el tiempo.
 
-INTEGRANTES:
+| INTEGRANTES: |
 
 - LANDA SABUCO, Gabriel David (Desarrollador)
 
