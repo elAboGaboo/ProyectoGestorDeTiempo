@@ -7,6 +7,9 @@
 | RIVERA VELAZCO, Mauricio Gabriel | Desarrollador |
 | ZACARIAS LOPEZ, Lenning Andree | Desarrollador |
 
+![image](https://github.com/elAboGaboo/ProyectoGestorDeTiempo/assets/164581494/9bc6cd9f-8cd0-4543-87f2-1741dd7725e5)
+
+
 ### OBJETIVOS:
 
 
