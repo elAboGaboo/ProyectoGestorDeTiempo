@@ -10,7 +10,8 @@
 ### OBJETIVOS:
 
 
-**1. Desarrollar una Aplicación Funcional:** El objetivo principal es construir una aplicación de gestión de tiempo multipropósito completamente funcional que cumpla con los requisitos establecidos, incluyendo temporizador estándar, alarma y temporizador Pomodoro.
+**1. Desarrollar una Aplicación Funcional:** 
+El objetivo principal es construir una aplicación de gestión de tiempo multipropósito completamente funcional que cumpla con los requisitos establecidos, incluyendo temporizador estándar, alarma y temporizador Pomodoro.
 
 **2. Facilitar la Gestión del Tiempo:** Proporcionar a los usuarios una herramienta intuitiva y efectiva para administrar su tiempo de manera más eficiente, permitiéndoles configurar y utilizar diferentes tipos de temporizadores según sus necesidades individuales.
 
